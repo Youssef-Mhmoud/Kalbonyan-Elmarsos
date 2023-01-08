@@ -2,7 +2,7 @@
 
 ## Challenges
 
-- [ ] [JavaScript Fundamentals – Part 1 ]()
+- [ ] [JavaScript Fundamentals – Part 1 ](Challenges/JavaScript Fundamentals – Part 1/)
 - [ ] [JavaScript Fundamentals – Part 2]()
 - [ ] [Developer Skills & Editor Setup ]()
 - [ ] [JavaScript in the Browser: DOM and Events]()
