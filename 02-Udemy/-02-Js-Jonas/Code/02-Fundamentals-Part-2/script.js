@@ -97,6 +97,7 @@ console.log(fruitProcessor(2, 3));
 */
 /////////////////////////////////////////////////////////////////////
 //----------------------- Reviewing Function -----------------------
+/*
 const calcAge = function (birthYear) {
   return 2037 - birthYear;
 };
@@ -113,8 +114,314 @@ const yearsUntilRetirement = (birthYear, firstName) => {
     return -1;
   }
 };
-
 console.log(yearsUntilRetirement(1991, "Youssef"));
 console.log(yearsUntilRetirement(1970, "Ahmed"));
+*/
 /////////////////////////////////////////////////////////////////////
 //----------------------- Introduction to Arrays -----------------------
+/*
+const friend1 = "Ahmed";
+const friend2 = "Kareem";
+const friend3 = "Ibrahim";
+
+const friends = ["Ahmed", "Kareem", "Ibrahim"];
+console.log(friends);
+
+const y = new Array(1991, 1984, 2008, 2020);
+
+console.log(friends[0]);
+console.log(friends[2]);
+
+console.log(friends.length);
+console.log(friends[friends.length - 1]);
+
+friends[2] = "Esmail";
+console.log(friends);
+// friends = ["Saber", "Khaled"];
+
+const firstName = "Youssef";
+const youssef = [firstName, "Mahmoud", 2037 - 1991, "teacher", friends];
+console.log(youssef);
+console.log(youssef.length);
+
+// Exercise
+const calcAge = function (birthYear) {
+  return 2037 - birthYear;
+};
+const years = [1990, 1967, 2002, 2010, 2018];
+
+const age1 = calcAge(years[0]);
+const age2 = calcAge(years[1]);
+const age3 = calcAge(years[years.length - 1]);
+console.log(age1, age2, age3);
+
+const ages = [
+  calcAge(years[0]),
+  calcAge(years[1]),
+  calcAge(years[years.length - 1]),
+];
+console.log(ages)
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Basic Array Operations (Methods) -----------------------
+/*
+const friends = ["Ahmed", "Kareem", "Ibrahim"];
+
+// Add elements
+const newLength = friends.push("Fathy");
+console.log(friends);
+console.log(newLength);
+
+friends.unshift("Mohamed");
+console.log(friends);
+
+// Remove elements
+friends.pop(); // Last
+const popped = friends.pop();
+console.log(popped);
+console.log(friends);
+
+friends.shift(); // First
+console.log(friends);
+
+console.log(friends.indexOf("Kareem"));
+console.log(friends.indexOf("Mohamed"));
+
+friends.push(23);
+console.log(friends.includes("Kareem"));
+console.log(friends.includes("Mohamed"));
+console.log(friends.includes(23));
+
+if (friends.includes('Ahmed')) {
+  console.log('You have a friend called Ahmed')
+}
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Introduction to Objects -----------------------
+/*
+const youssefArray = [
+  "Youssef",
+  "Mahmoud",
+  2037 - 1991,
+  "teacher",
+  ["Ahmed", "Kareem", "Ibrahim"],
+];
+
+const youssef = {
+  firstName: "Youssef",
+  lastName: "Mahmoud",
+  age: 2037 - 1991,
+  job: "teacher",
+  friends: ["Ahmed", "Kareem", "Ibrahim"],
+};
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Dot vs. Bracket Notation -----------------------
+/*
+const youssef = {
+  firstName: "Youssef",
+  lastName: "Mahmoud",
+  age: 2037 - 1991,
+  job: "teacher",
+  friends: ["Ahmed", "Kareem", "Ibrahim"],
+};
+console.log(youssef);
+
+console.log(youssef.lastName);
+console.log(youssef["lastName"]);
+
+const nameKey = "Name";
+console.log(youssef["first" + nameKey]);
+console.log(youssef["last" + nameKey]);
+
+// console.log(youssef.'last' + nameKey)
+
+const interstdIn = prompt(
+  "What do you want to know about Youssef? Choose between firstName, lastName, age , job and friends"
+);
+console.log(youssef[interstdIn]);
+
+if (youssef[interstdIn]) {
+  console.log(youssef[interstdIn]);
+} else {
+  console.log(
+    "Wrong request! Choose between firstName, lastName, age, job and friends"
+  );
+}
+
+youssef.location = "Egypt";
+youssef["twitter"] = "@twitter";
+console.log(youssef);
+
+// Challenge
+// "Youssef has 3 friends, and his best friend is called Ahmed"
+
+console.log(
+  `${youssef.firstName} has ${
+    youssef.friends.length
+  } friends, and his best friend is called ${
+    youssef.friends[0]
+  }`
+);
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Object Methods -----------------------
+/*
+const youssef = {
+  firstName: "Youssef",
+  lastName: "Mahmoud",
+  birthYear: 1991,
+  job: "teacher",
+  friends: ["Ahmed", "Kareem", "Ibrahim"],
+  hasDriversLicense: false,
+
+  // calcAge: function (birthYear) {
+  //   return 2037 - birthYear;
+  // },
+
+  // calcAge: function () {
+  //   // console.log(this);
+  //   return 2037 - this.birthYear;
+  // },
+
+  calcAge: function () {
+    this.age = 2037 - this.birthYear;
+    return this.age;
+  },
+
+  getSummary: function () {
+    return `${this.firstName} is a ${this.calcAge()}-year old ${
+      this.job
+    }, and he has ${this.hasDriversLicense ? "a" : "no"} driver's license`;
+  },
+};
+
+console.log(youssef.calcAge());
+
+console.log(youssef.age);
+console.log(youssef.age);
+console.log(youssef.age);
+// console.log(youssef["calcAge"](1991));
+
+// Challenge
+// "Youssef is a 46-year old teacher, and he has a driver's license"
+console.log(youssef.getSummary());
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Iteration: The for Loop -----------------------
+/*
+// console.log("Lifting weights repetition 1 🏋️‍♀️");
+// console.log("Lifting weights repetition 2 🏋️‍♀️");
+// console.log("Lifting weights repetition 3 🏋️‍♀️");
+// console.log("Lifting weights repetition 4 🏋️‍♀️");
+// console.log("Lifting weights repetition 5 🏋️‍♀️");
+// console.log("Lifting weights repetition 6 🏋️‍♀️");
+// console.log("Lifting weights repetition 7 🏋️‍♀️");
+// console.log("Lifting weights repetition 8 🏋️‍♀️");
+// console.log("Lifting weights repetition 9 🏋️‍♀️");
+// console.log("Lifting weights repetition 10 🏋️‍♀️");
+
+// for loop keeps running while condition is TRUE
+for (let rep = 1; rep <= 10; rep++) {
+  console.log(`Lifting weights repetition ${rep} 🏋️‍♀️`);
+}
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Looping Arrays, Breaking and Continuing -----------------------
+/*
+const youssef = [
+  "Youssef",
+  "Mahmoud",
+  2037 - 1991,
+  "teacher",
+  ["Ahmed", "Kareem", "Ibrahim"],
+  true,
+];
+const types = [];
+
+// console.log(yousef[0])
+// console.log(yousef[1])
+// ...
+// console.log(yousef[4])
+// yousef[5] does NOT exist
+
+for (let i = 0; i < youssef.length; i++) {
+  // Reading from youssef array
+  console.log(youssef[i], typeof youssef[i]);
+
+  // Filling types array
+  // types[i] = typeof youssef[i]
+  types.push(typeof youssef[i]);
+}
+
+console.log(types);
+
+const years = [1991, 2007, 1969, 2020];
+const ages = [];
+
+for (let i = 0; i < years.length; i++) {
+  ages.push(2037 - years[[i]]);
+}
+console.log(ages);
+
+// continue and break
+console.log('--- ONLY STRINGS ---')
+for (let i = 0; i < youssef.length; i++) {
+  if (typeof youssef[i] !== "string") continue;
+  console.log(youssef[i], typeof youssef[i]);
+}
+
+console.log('--- BREAK WITH NUMBER ---')
+for (let i = 0; i < youssef.length; i++) {
+  if (typeof youssef[i] === "number") break;
+  console.log(youssef[i], typeof youssef[i]);
+}
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- Looping Backwards and Loops in Loops -----------------------
+/*
+const youssef = [
+  "Youssef",
+  "Mahmoud",
+  2037 - 1991,
+  "teacher",
+  ["Ahmed", "Kareem", "Ibrahim"],
+  true,
+];
+
+// 0, 1, ..., 4
+// 4, 3, ..., 0
+
+for (let i = youssef.length - 1; i >= 0; i--) {
+  console.log(youssef[i]);
+}
+
+for (let exercise = 1; exercise < 4; exercise++) {
+  console.log(`-------- Starting exercise ${exercise}`);
+
+  for(let rep = 1; rep < 6; rep++) {
+    console.log(`Exercise ${exercise}: Lifting weight reptition ${rep} 🏋️‍♀️`)
+  }
+}
+*/
+/////////////////////////////////////////////////////////////////////
+//----------------------- The while Loop -----------------------
+/*
+// for (let rep = 1; rep <= 10; rep++) {
+//   console.log(`Lifting weights repetition ${rep} 🏋️‍♀️`);
+// }
+
+let rep = 1;
+while (rep <= 10) {
+  // console.log(`WHILE: Lifting weights repetition ${rep} 🏋️‍♀️`);
+  rep++;
+}
+
+let dice = Math.trunc(Math.random() * 6) + 1;
+
+while (dice !== 6) {
+  console.log(`You rolled a ${dice}`);
+  dice = Math.trunc(Math.random() * 6) + 1;
+  if(dice === 6) console.log('Loop is about to end...')
+}
+*/
