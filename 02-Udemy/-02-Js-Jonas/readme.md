@@ -4,7 +4,7 @@
 
 - [x] [JavaScript Fundamentals – Part 1](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%201/)
 - [x] [JavaScript Fundamentals – Part 2](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%202/)
-- [ ] [Developer Skills & Editor Setup ](./Challenges/Developer%20Skills%20&%20Editor%20Setup/)
+- [x] [Developer Skills & Editor Setup ](./Challenges/Developer%20Skills%20&%20Editor%20Setup/)
 - [ ] [JavaScript in the Browser: DOM and Events]()
 - [ ] [Data Structures, Modern Operators and Strings.]()
 - [ ] [A Closer Look at Functions]()
