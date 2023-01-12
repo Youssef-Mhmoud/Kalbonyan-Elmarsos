@@ -14,10 +14,10 @@
 
 ## Projects
 
-### Pig Game
+### Tic Tac Toe Game
 
-- [Project-code]()
-- [Live Demo]()
+- [Project-code](./tic-tac-toe/)
+- [Live Demo](https://tic-tac-toe-geme.netlify.app/)
 
 ### Bankist
 
