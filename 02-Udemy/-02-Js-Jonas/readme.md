@@ -16,7 +16,7 @@
 
 ### Tic Tac Toe Game
 
-- [Project-code](./projects/tic-tac-toe/)
+- [Project-code](./Projects/tic-tac-toe/)
 - [Live Demo](https://tic-tac-toe-geme.netlify.app/)
 
 ### Bankist
