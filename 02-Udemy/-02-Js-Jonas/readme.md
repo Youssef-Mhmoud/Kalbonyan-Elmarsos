@@ -7,8 +7,8 @@
 - [x] [Developer Skills & Editor Setup ](./Challenges/Developer%20Skills%20&%20Editor%20Setup/)
 - [x] [JavaScript in the Browser: DOM and Events](./Challenges/JavaScript%20in%20the%20Browser%20DOM%20and%20Events)
 - [x] [Data Structures, Modern Operators and Strings.](./Challenges/Data%20Structures,%20Modern%20Operators%20and%20Strings/)
-- [ ] [A Closer Look at Functions]()
-- [ ] [Working With Arrays.]()
+- [x] [A Closer Look at Functions](./Challenges/A%20Closer%20Look%20at%20Functions)
+- [ ] [Working With Arrays]()
 - [ ] [Object Oriented Programming (OOP)]()
 - [ ] [Asynchronous JavaScript]()
 
