@@ -8,7 +8,7 @@
 - [x] [JavaScript in the Browser: DOM and Events](./Challenges/JavaScript%20in%20the%20Browser%20DOM%20and%20Events)
 - [x] [Data Structures, Modern Operators and Strings.](./Challenges/Data%20Structures,%20Modern%20Operators%20and%20Strings/)
 - [x] [A Closer Look at Functions](./Challenges/A%20Closer%20Look%20at%20Functions)
-- [x] [Working With Arrays](./Challenges/working%20with%20arrays)
+- [x] [Working With Arrays](./Challenges/Working%20With%20Arrays)
 - [ ] [Object Oriented Programming (OOP)]()
 - [ ] [Asynchronous JavaScript]()
 
