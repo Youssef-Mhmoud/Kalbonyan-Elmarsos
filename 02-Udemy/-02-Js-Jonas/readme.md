@@ -9,7 +9,7 @@
 - [x] [Data Structures, Modern Operators and Strings.](./Challenges/Data%20Structures,%20Modern%20Operators%20and%20Strings/)
 - [x] [A Closer Look at Functions](./Challenges/A%20Closer%20Look%20at%20Functions)
 - [x] [Working With Arrays](./Challenges/Working%20With%20Arrays)
-- [x] [Object Oriented Programming (OOP)]()
+- [x] [Object Oriented Programming (OOP)](./Challenges/Object%20Oriented%20Programming%20(OOP))
 - [ ] [Asynchronous JavaScript]()
 
 ## Projects
