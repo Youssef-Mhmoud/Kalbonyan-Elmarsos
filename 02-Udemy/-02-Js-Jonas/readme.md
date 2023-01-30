@@ -31,8 +31,8 @@
 
 ### Mapty
 
-- [Project-code]()
-- [Live Demo]()
+- [Project-code](./Projects/Mapty)
+- [Live Demo](https://mapty-two.vercel.app/)
 
 ### Forkify
 
