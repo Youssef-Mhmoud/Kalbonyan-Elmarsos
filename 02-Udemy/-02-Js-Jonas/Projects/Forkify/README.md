@@ -1,4 +1,4 @@
-# Forkify: [Live Demo](https://forkify-youssef1.netlify.app/)
+# Forkify Application
 
 Recipe application wit custom recipe uploads.
 
