@@ -44,7 +44,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
   - [x] ` in progress` `4h` - 02 - [Git: Become an Expert in Git & GitHub]()
         <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-31h301m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-41h30m-blue">
 <!-- MERN -->
   <span id="js"></span>
 
@@ -57,7 +57,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 - [ ] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript](02-Udemy/-03-20-projects-with-Js-bradtraversy/)
       <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-68h39m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-85h7m-blue">
 
 # LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS)
 
