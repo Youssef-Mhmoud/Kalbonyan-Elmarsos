@@ -2,28 +2,28 @@
 
 ## Projects
 
-|  #  |            Project             |   Live Demo   |
-| :-: | :----------------------------: | :-----------: |
-| 01  |       [Form Validator]()       | [Live Demo]() |
-| 02  |     [Movie Seat Booking]()     | [Live Demo]() |
-| 03  |    [Custom Video Player]()     | [Live Demo]() |
-| 04  |  [Exchange Rate Calculator]()  | [Live Demo]() |
-| 05  | [DOM Array Methods Project]()  | [Live Demo]() |
-| 06  |    [Menu Slider & Modal]()     | [Live Demo]() |
-| 07  |        [Hangman Game]()        | [Live Demo]() |
-| 08  |       [Mealfinder App]()       | [Live Demo]() |
-| 09  |      [Expense Tracker]()       | [Live Demo]() |
-| 10  |        [Music Player]()        | [Live Demo]() |
-| 11  |     [Infinite Scrolling]()     | [Live Demo]() |
-| 12  |        [Typing Game]()         | [Live Demo]() |
-| 13  |     [Speech Text Reader]()     | [Live Demo]() |
-| 14  |        [Memory Cards]()        | [Live Demo]() |
-| 15  |      [LyricsSearch App]()      | [Live Demo]() |
-| 16  |        [Relaxer App]()         | [Live Demo]() |
-| 17  |       [Breakout Game]()        | [Live Demo]() |
-| 18  |     [New Year Countdown]()     | [Live Demo]() |
-| 19  |       [Sortable List]()        | [Live Demo]() |
-| 20  | [Speak Number Guessing Game]() | [Live Demo]() |
+|  #  |                               Project                               |   Live Demo   |
+| :-: | :-----------------------------------------------------------------: | :-----------: |
+| 01  |           [Form Validator](./Projects/01-form-validator/)           | [Live Demo]() |
+| 02  |       [Movie Seat Booking](./Projects/02-movie-seat-booking/)       | [Live Demo]() |
+| 03  |      [Custom Video Player](./Projects/03-custom-video-player/)      | [Live Demo]() |
+| 04  | [Exchange Rate Calculator](./Projects/04-exchange-rate-calculator/) | [Live Demo]() |
+| 05  |    [DOM Array Methods Project](./Projects/05-dom-array-methods/)    | [Live Demo]() |
+| 06  |       [Menu Slider & Modal](./Projects/06-modal-menu-slider/)       | [Live Demo]() |
+| 07  |               [Hangman Game](./Projects/07-hangman/)                | [Live Demo]() |
+| 08  |            [Mealfinder App](./Projects/08-meal-finder/)             | [Live Demo]() |
+| 09  |          [Expense Tracker](./Projects/09-expense-tracker/)          | [Live Demo]() |
+| 10  |             [Music Player](./Projects/10-quran-player/)             | [Live Demo]() |
+| 11  |     [Infinite Scrolling](./Projects/11-infinte_scrolling_blog/)     | [Live Demo]() |
+| 12  |              [Typing Game](./Projects/12-typing-game/)              | [Live Demo]() |
+| 13  |       [Speech Text Reader](./Projects/13-speech-text-reader/)       | [Live Demo]() |
+| 14  |             [Memory Cards](./Projects/14-memory-cards/)             | [Live Demo]() |
+| 15  |           [LyricsSearch App](./Projects/15-quran-search/)           | [Live Demo]() |
+| 16  |              [Relaxer App](./Projects/16-relaxer-app/)              | [Live Demo]() |
+| 17  |            [Breakout Game](./Projects/17-breakout-game/)            | [Live Demo]() |
+| 18  |       [New Year Countdown](./Projects/18-new-year-countdown/)       | [Live Demo]() |
+| 19  |            [Sortable List](./Projects/19-sortable-list/)            | [Live Demo]() |
+| 20  |   [Speak Number Guessing Game](./Projects/20-speak-number-guess/)   | [Live Demo]() |
 
 ---
 
