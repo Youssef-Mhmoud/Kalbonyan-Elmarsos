@@ -29,6 +29,6 @@
 
 [Course Link](https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75)<br>
 
-[Certificate]()
+[Certificate](https://www.udemy.com/certificate/UC-4de79ed3-af20-463e-8a01-e2d3700e551a/)
 <br>
-<img src='https://via.placeholder.com/468x300?text=Certificate+Here' />
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-4de79ed3-af20-463e-8a01-e2d3700e551a.jpg?v=1676985174000' />
