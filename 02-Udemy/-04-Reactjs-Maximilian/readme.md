@@ -10,9 +10,9 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
-- [Section 4 Project Live Demo]()
-- [Section 5 Project Live Demo]()
+- [Section 3 Project Live Demo](https://expenses-app-section-3.vercel.app/)
+- [Section 4 Project Live Demo](https://expenses-app-section-4.vercel.app/)
+- [Section 5 Project Live Demo](https://expenses-app-section-5.vercel.app/)
 
 ### goals app (S6-S7)
 
@@ -21,18 +21,18 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
+- [Section 6 Project Live Demo](https://s06-project.vercel.app/)
+- [Section 7 Project Live Demo](https://s07-project.vercel.app/)
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+- [Live Demo](https://section-8-9-project.vercel.app/)
 
 ### Login-app (S10)
 
 - [Project-code](./Projects/Login-app-s10/)
-- [Live Demo]()
+- [Live Demo](https://login-app-s10.vercel.app/)
 
 ### Order-food App (S11)
 
