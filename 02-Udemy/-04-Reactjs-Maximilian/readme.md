@@ -81,8 +81,13 @@
 
 ### Events app(S20 - S21)
 
-- [Project-code](./Projects/events-app)
-- [Live Demo]()
+- [Section 20 Code](./Projects/events-app/S20-project/)
+- [Section 21 Code](./Projects/events-app/S21-project/)
+
+<br/>
+
+- [Section 20 Project Live Demo]()
+- [Section 21 Project Live Demo]()
 
 ### Meetsup app(S23)
 
