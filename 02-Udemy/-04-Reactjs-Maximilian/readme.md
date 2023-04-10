@@ -79,7 +79,7 @@
 - [Project-code](./Projects/redux-cart)
 - [Live Demo]()
 
-### Quotes app(S20)
+### Events app(S20)
 
 - [Project-code](./Projects/quotes-app)
 - [Live Demo]()
