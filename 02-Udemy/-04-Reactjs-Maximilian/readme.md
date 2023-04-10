@@ -82,7 +82,7 @@
 ### Events app(S20 - S21)
 
 - [Project-code](./Projects/events-app)
-- [Final Project Live Demo]()
+- [Live Demo]()
 
 ### Meetsup app(S23)
 
