@@ -67,7 +67,7 @@
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo]()
+- [Final Project Live Demo]()
 
 ### Redux Counter(S18)
 
@@ -79,15 +79,15 @@
 - [Project-code](./Projects/redux-cart)
 - [Live Demo]()
 
-### Quotes app(S20)
+### Events app(S20 - S21)
 
-- [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Section 20 Code](./Projects/events-app/S20-project/)
+- [Section 21 Code](./Projects/events-app/S21-project/)
 
-### Authentication-page(S22)
+<br/>
 
-- [Project-code](./Projects/Authentication-page)
-- [Live Demo]()
+- [Section 20 Project Live Demo]()
+- [Section 21 Project Live Demo]()
 
 ### Meetsup app(S23)
 
