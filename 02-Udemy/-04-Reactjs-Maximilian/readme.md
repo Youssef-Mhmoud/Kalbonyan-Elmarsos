@@ -37,47 +37,47 @@
 ### Order-food App (S11)
 
 - [Project-code](./Projects/order-food-app/S11-project/)
-- [Live Demo]()
+- [Live Demo](https://s11-project.vercel.app/)
 
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+- [Live Demo](https://s12-project.vercel.app/)
 
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
+- [Live Demo](https://s13-project-gamma.vercel.app/)
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
+- [Live Demo](https://movies-app-one-alpha.vercel.app/)
 
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+- [Live Demo](https://task-app-firbase.vercel.app/)
 
 ### Form-app(S16)
 
 - [Project-code](./Projects/form-app)
-- [Live Demo]()
+- [Live Demo](https://form-app-sooty.vercel.app/)
 
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Demo]()
+- [Final Project Live Demo](https://s17-project.vercel.app/)
 
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo]()
+- [Live Demo](https://redux-counter-rouge-theta.vercel.app/)
 
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://redux-cart-orpin.vercel.app/)
 
 ### Events app(S20 - S21)
 
@@ -92,7 +92,7 @@
 ### Meetsup app(S23)
 
 - [Project-code](./Projects/meetsup-app)
-- [Live Demo]()
+- [Live Demo](https://meetsup-app-red.vercel.app/)
 
 ### Animation-app (S24)
 
