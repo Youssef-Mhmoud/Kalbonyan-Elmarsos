@@ -114,9 +114,9 @@
 - [Project-code](./Projects/ingredients-app/)
 - [Live Demo](https://ingredients-app-azure.vercel.app/)
 
-### Post-app(S29)
+### Posts-app(S29)
 
-- [Project-code](./Projects/Post-app-s29/)
+- [Project-code](./Projects/Posts-app-s29/)
 - [Live Demo]()
 
 ---
