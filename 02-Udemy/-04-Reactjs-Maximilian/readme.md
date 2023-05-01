@@ -116,7 +116,7 @@
 
 ### Post-app(S29)
 
-- [Project-code](./Projects/Section-29/)
+- [Project-code](./Projects/Post-app-s29/)
 - [Live Demo]()
 
 ---
