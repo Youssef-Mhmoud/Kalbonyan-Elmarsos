@@ -97,26 +97,26 @@
 ### Animation-app (S24)
 
 - [Project-code](./Projects/animation-app)
-- [Live Demo]()
+- [Live Demo](https://animation-app-tawny.vercel.app/)
 
 ### Products-app(S25)
 
 - [Project-code](./Projects/Products-app)
-- [Live Demo]()
+- [Live Demo](https://products-app-pi.vercel.app/)
 
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
-- [Live Demo]()
+- [Live Demo](https://todo-app-ts-eight.vercel.app/)
 
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+- [Live Demo](https://ingredients-app-azure.vercel.app/)
 
-### Section 29 Project
+### Post-app(S29)
 
-- [Project-code](./Projects/Section-29/)
+- [Project-code](./Projects/Post-app-s29/)
 - [Live Demo]()
 
 ---
