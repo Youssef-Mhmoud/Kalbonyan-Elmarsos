@@ -61,13 +61,13 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS)
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![33.3%](https://progress-bar.dev/33/?title=Done)
 <span id="MERN"></span>
 <br />
 
 - ## ReactJs
 
-- [ ] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)]()
+- [x] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
 
 - ## NodeJs
 
