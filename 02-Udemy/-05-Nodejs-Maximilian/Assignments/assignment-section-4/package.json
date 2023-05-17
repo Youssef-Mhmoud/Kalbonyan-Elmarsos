@@ -1,0 +1,16 @@
+{
+  "name": "04-improved-development-workflow-and-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon assignment-sec-4.js",
+    "start-server": "node assignment-sec-4.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
