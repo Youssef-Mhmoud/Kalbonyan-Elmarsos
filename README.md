@@ -48,7 +48,6 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 <!-- MERN -->
   <span id="js"></span>
 
-
 # LEARN JAVASCRIPT
 
 ![100%](https://progress-bar.dev/100/?title=Done)
